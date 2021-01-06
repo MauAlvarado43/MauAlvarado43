@@ -3,7 +3,6 @@
 Welcome here to my github profile, my name is Mauricio and I'm a 19 years old student. Nowadays, I'm studying Artificial Intelligence Engineering in ESCOM. My goal is become a great full stack developer.
 
 <br>
-<br>
 
 ## What do I do?
 

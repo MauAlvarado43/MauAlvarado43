@@ -1,6 +1,6 @@
 <img src="src/banner.png">
 
-Welcome here to my github profile, my name is Mauricio and I'm a 19 years old student. Nowadays, I'm studying Artificial Intelligence Engineering in ESCOM. My goal is become a great full stack developer.
+Welcome here to my github profile, my name is Mauricio and I'm a 20 years old student. Nowadays, I'm studying Artificial Intelligence Engineering in ESCOM. My goal is become a great full stack developer.
 
 ## What do I do?
 

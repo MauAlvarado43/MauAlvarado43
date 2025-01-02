@@ -1,28 +1,54 @@
 <img src="src/banner.png">
 
-Welcome here to my github profile, my name is Mauricio and I'm a 20 years old student. Nowadays, I'm studying Artificial Intelligence Engineering in ESCOM. My goal is become a great full stack developer.
+<h4 align="center">
 
-## What do I do?
+👋 Hi! I’m a Full Stack Developer passionate about technology, innovation, and continuous learning. My journey began at 16 when I studied programming at CECyT 9. Later, I pursued a degree in Artificial Intelligence Engineering at ESCOM, where I delved into algorithms, Machine Learning, Computer Vision, and Natural Language Processing.
 
+💻 With experience in building web and mobile applications, I’ve worked on advanced HR systems with biometric and geolocation features, process automation platforms with RPA and AI, and custom solutions like financial management tools. I enjoy tackling complex problems, crafting efficient solutions, and collaborating on impactful projects.
+
+🎮 In my free time, I explore emerging technologies, produce music, game, and stay active. I’m always looking for new challenges that inspire growth and creativity.
+
+📂 Check out my portfolio: <a href="https://maualvarado43.github.io/">https://maualvarado43.github.io/</a>
+
+</h4>
+
+<hr />
+
+<div align="center">
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-    <img alt="SQL" src="https://img.shields.io/badge/SQL-Intermediate-F7DF1E?logo=MySQL&logoColor=white&style=for-the-badge">
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-Fluent-007396?logo=MongoDB&logoColor=white&style=for-the-badge">
-    <img alt="C/C++" src="https://img.shields.io/badge/C%2FC%2b%2b-Proficient-E34F26?logo=C%2b%2b&logoColor=white&style=for-the-badge">
-    <img alt="C#" src="https://img.shields.io/badge/c%23%20-Advanced-007396?logo=c-sharp&logoColor=white&style=for-the-badge">
-    <img alt="PHP" src="https://img.shields.io/badge/php-Proficient-E34F26?logo=php&logoColor=white&style=for-the-badge">
-    <img alt="Java" src="https://img.shields.io/badge/Java-Proficient-E34F26?logo=java&logoColor=white&style=for-the-badge">
-    <img alt="Python" src="https://img.shields.io/badge/Python-Proficient-E34F26?logo=Python&logoColor=white&style=for-the-badge">
-    <img alt="Javascript" src="https://img.shields.io/badge/Javascript-Advanced-1572B6?logo=Javascript&logoColor=white&style=for-the-badge">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-Proficient-E34F26?logo=CSS3&logoColor=white&style=for-the-badge">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML%20-Proficient-E34F26?logo=HTML5&logoColor=white&style=for-the-badge">
-    <img alt="Node.js" src="https://img.shields.io/badge/node.js-Advanced-1572B6?logo=node.js&logoColor=white&style=for-the-badge">
+<a href="https://twitter.com/RavenAlpha69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/maualvarado43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mau.alvalop43" height="30" width="40" /></a>
+<a href="https://instagram.com/mau.alvalop43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maualvarado43" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/itsraidenxx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="itsraidenxx" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/itsraidenxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="itsraidenxx" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/itsraidenxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="itsraidenxx" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/itsraidenxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itsraidenxx" height="30" width="40" /></a>
 </p>
+</div>
 
-## What Tools do I use?
+<hr />
 
-<p align="center">
-    <img alt="Git" src="https://img.shields.io/badge/Git%20-Proficient-F05032?logo=Git&logoColor=white&style=for-the-badge">
-    <img alt="Git" src="https://img.shields.io/badge/heroku-Proficient-F05032?logo=heroku&logoColor=white&style=for-the-badge">
-</p>
+<div align="center">
+<h3 align="center">Languages and Tools I use:</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauAlvarado43&show_icons=true)
+  [![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,ruby,php,c,cpp,cs,dart,matlab,javascript,ts,html,css)](https://skillicons.dev)
+
+  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,docker,linux,nginx,aws,googlecloud,cloudflare,sentry)](https://skillicons.dev)
+
+  [![My Skills](https://skillicons.dev/icons?i=django,flask,nodejs,react,sass,flutter,graphql,pytorch,opencv,sklearn)](https://skillicons.dev)
+
+  [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb)](https://skillicons.dev)
+</div>
+
+<hr />
+
+<div align="center">
+<h3 align="center">My GitHub Stats:</h3>
+<a href="https://github.com/MauAlvarado43">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MauAlvarado43" />
+</a>
+<a href="https://github.com/MauAlvarado43">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MauAlvarado43&layout=compact&langs_count=8&card_width=320" />
+</a>
+</div>

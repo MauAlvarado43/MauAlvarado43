@@ -24,3 +24,5 @@ Welcome here to my github profile, my name is Mauricio and I'm a 20 years old st
     <img alt="Git" src="https://img.shields.io/badge/Git%20-Proficient-F05032?logo=Git&logoColor=white&style=for-the-badge">
     <img alt="Git" src="https://img.shields.io/badge/heroku-Proficient-F05032?logo=heroku&logoColor=white&style=for-the-badge">
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
